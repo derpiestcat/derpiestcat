@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @derpiestcat
-- 👀 I’m interested in making stuff
-- 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on sulfur ai
+- 👋 lol hi, I’m @derpiestcat
+- 👀 currently interested in making stuff (very cool ik right fr fr skull emoji etc etc)
+- 🌱 i’m currently learning js. yes just js. ok maybe graphic design.
+- 💞️ i hate collabing. don't collab with me unless i really trust you.
 - 📫 How to reach me: use an arm
 
-- 😄 Pronouns: insert cash/select payment type
-- ⚡ Fun fact: you know what else is massive? your back
+- 😄 pronouns: they/them , i like anonymity on the 'net
+- ⚡ fun fact: you know what else is massive? your back
 
 <!---
 derpiestcat/derpiestcat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
